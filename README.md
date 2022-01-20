@@ -26,8 +26,11 @@
 
 - Commander.js
   - node module which will help us parse process.argv in much easy and better way while
+  - parses process.argv and gives very easy interface to work with.
 - Inquirer.js
   - will help us design interactive CLI application.
+- colors
+  - add some colors to console output
 
 # 참고
 
