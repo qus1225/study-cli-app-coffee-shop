@@ -31,6 +31,8 @@
   - will help us design interactive CLI application.
 - colors
   - add some colors to console output
+- pad
+  - output 메시지에 간격 추가
 
 # 참고
 

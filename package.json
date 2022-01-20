@@ -9,6 +9,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^8.3.0",
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "pad": "^3.2.0"
   }
 }
