@@ -1,0 +1,14 @@
+{
+  "name": "study-cli-app-coffee-shop",
+  "version": "1.0.0",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "coffee-shop": "./bin/index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0"
+  }
+}
